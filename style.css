@@ -1,1 +1,7 @@
-
+/* Temporary - to visualize the box model */
+h2 {
+    background-color: lightblue;
+    padding: 20px;
+    border: 3px solid darkblue;
+    margin: 30px;
+}
