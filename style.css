@@ -1,7 +1,6 @@
-/* Temporary - to visualize the box model */
 h2 {
     background-color: lightblue;
-    padding: 20px;
-    border: 3px solid darkblue;
-    margin: 30px;
+    padding: 50px;           /* Make padding bigger */
+    border: 10px solid darkblue;  /* Make border thicker */
+    margin: 50px;            /* Make margin bigger */
 }
